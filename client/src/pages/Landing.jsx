@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { ArrowRight, ArrowUpRight, Check, CirclePlay, FileUp, LockKeyhole, MonitorUp, Pencil, ShieldCheck, Sparkles, Users, Video } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, AudioLines, Check, CirclePlay, FileUp, LockKeyhole, MonitorUp, Pencil, ShieldCheck, Sparkles, Users, Video } from 'lucide-react';
 import { useAuth } from '../auth';
 
 const features = [
